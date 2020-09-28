@@ -1,7 +1,7 @@
-Programación we
+Programación web
 **21 de Septiembre de 2020**
 
-Formulario básico
+<b>Formulario básico</b>
 <br>
 Etiquetas: 
 <br>
