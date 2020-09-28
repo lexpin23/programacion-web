@@ -45,6 +45,12 @@ Para los distintos navegadores que estará disponible nuestro sitio web, es impo
 que estas etiquetas de video y audio estén en formatos <b>.mp3, .ogg, .ogv .web</b>
 entre otros más para adaptarlo a cualquier plataforma
 
+<b>Notas para la profesora</b>
+<br>
+Disculpe la tardanza. Durante la semana trabajo y salgo a las 2 de la tarde. Es por las noches
+cuando puedo dar una repasada y los fines de semana aprovecho para subir todo lo visto en
+clase. Pero aquí están.
+
 **
 
 
