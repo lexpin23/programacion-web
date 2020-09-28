@@ -4,10 +4,11 @@ Programación we
 Formulario básico
 <br>
 Etiquetas: 
--text h3
--label
--input para tipo radio
--select para seleccionar opciones
+<br>
+-text h3<br>
+-label<br>
+-input para tipo radio<br>
+-select para seleccionar opciones<br>
 
 
 **
