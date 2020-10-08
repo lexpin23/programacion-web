@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudoelementos y Pseudoclases</title>
+    <link rel="stylesheet" href="pseudoelementos.css">
+</head>
+<body>
+    <h1 class="titulo">Pseudoelementos</h1>
+    <p class="texto">
+        <span> Lorem ipsum dolor sit amet consectetur</span> adipisicing elit. Quam provident repellendus molestias placeat dolorem, magnam, sint excepturi facilis adipisci quae harum minus labore earum cupiditate. Esse quam voluptas sequi eos?
+    </p>
+    <p class="dinero">10</p>
+    <p class="ejemplo">ejemplo</p>
+    <span class="linea">Elemento línea</span>
+
+
+    <h2>Pseudoclases</h2> 
+
+    <!--DINAMICAS-->
+    <a class="enlace" href="enlace.com">Enlace no visitado</a>
+    <a class="enlace" href="#">Enlace visitado</a>
+    <input type="text">
+
+     <!--ESTADO-->
+
+     <form action="#">
+         <label class="label">:enabled</label>
+         <input class="input" type="text">
+
+         <label class="label">:disabled</label>
+         <input class="input" type="text" disabled>
+
+         <label class="label">:required</label>
+         <input class="input" type="text" required>
+
+         <input id="checkbox" type="checkbox" class="input checkbox">
+         <label for="checkbox" class="label">:checked</label>
+
+         <label class="label">:in-range y :out-of-range</label>
+         <input class="input" type="number" min="10" max="30">
+     </form>
+
+     <h3>Estructurales</h3> 
+     <div class="contenedor">
+         <p class="parrafo">parrafo 1</p>
+         <p class="parrafo">parrafo 2</p>
+         <p class="parrafo">parrafo 3</p>
+         <p class="parrafo">parrafo 4</p>
+         <p class="parrafo">parrafo 5</p>
+         <p class="parrafo">parrafo 6</p>
+         <p class="parrafo">parrafo 7</p>
+         <p class="parrafo">parrafo 8</p>
+     </div>
+</body>
+</html>
