@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    max-width: 1900px;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.logo{
+    width: 15%;
+    display: block;
+    margin: auto;
+}
+
+header nav{
+    text-align: center;
+}
+
+header nav ul{
+    padding: 10px;
+    display: inline-block;
+    border-top: 1px solid rgb(197, 197, 197) ;
+    border-bottom: 1px solid rgb(197, 197, 197) ;
+    color: gray;
+}
+
+header nav ul li{
+    
+    display: inline;
+    font-size: 15px;
+    margin: 0 25px 0 0;
+}
+
+
+
+
+.compra-b{
+    color: white;
+    padding: 7px 10px;
+    background-color: rgba(230, 167, 30, 0.863);
+    border: none;
+    border-radius: 2px;
+}
+
+section article{
+    margin: 0 80px;
+}
+
+section .lado-i{
+    vertical-align: top;
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+section .lado-i h1{
+    font-size: 40px;
+}
+
+section .lado-i h3{
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+section .lado-i p{
+    justify-content: center;
+}
+
+
+
+section a{
+    
+    text-decoration: none;
+    color: rgb(0, 204, 255);
+}
+section a:active{
+    
+    background-color: blue;
+}
+
+
+
+
+
+
+
+section .lado-d img{
+    width: 90%;
+}
+
+section .lado-d{
+    width: 40%;
+    display: inline-block;
+    margin: auto;
+}
+
+.Order-Book{
+    text-align: center;
+}
+
+footer{
+   display:inline-block;
+   padding: 30px;
+}
+
+footer .contenedor{
+margin-left: 300px;
+}
+
+footer .amazon{
+    border-radius: 3px;
+    border: 1px solid orange;
+    padding: 10px 20px;
+    color: gray;
+    background-color: white    ;
+   vertical-align: top;
+   margin-top: 40px;
+}
+
+footer .logos{
+    width: 10%;
+    display: inline-block;
+    
+    margin: 0 80px;
+    
+}
